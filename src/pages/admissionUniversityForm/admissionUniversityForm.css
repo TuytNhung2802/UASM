@@ -1,0 +1,9 @@
+input[type="text"], select {
+    border: 1px solid lightgray;
+    border-radius: 3px;
+    padding: 3px 0;
+}
+
+select {
+    min-width: 200px;
+}

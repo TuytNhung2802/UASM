@@ -1,0 +1,42 @@
+{
+  "id": "019a6d72-a96a-40af-9e46-ed759c53799b",
+  "name": "ngôn ngữ hàn quốc",
+  "educationalLevel": "university",
+  "code": "7220210",
+  "basedOnHighSchoolExamResults": [
+    {
+      "id": "17350092-b7df-4698-b342-a4fc726627cc",
+      "name": "V05"
+    },
+    {
+      "id": "2da29d2e-e48d-40ae-ac14-dc2549190316",
+      "name": "D19"
+    },
+    {
+      "id": "760e1880-c737-48fa-bf24-0dd962ab36e8",
+      "name": "N06"
+    },
+    {
+      "id": "e0eca674-83f9-41e3-8be3-cee5f1811658",
+      "name": "H07"
+    }
+  ],
+  "basedOnHighSchoolTranscripts": [
+    {
+      "id": "17350092-b7df-4698-b342-a4fc726627cc",
+      "name": "V05"
+    },
+    {
+      "id": "2da29d2e-e48d-40ae-ac14-dc2549190316",
+      "name": "D19"
+    },
+    {
+      "id": "760e1880-c737-48fa-bf24-0dd962ab36e8",
+      "name": "N06"
+    },
+    {
+      "id": "e0eca674-83f9-41e3-8be3-cee5f1811658",
+      "name": "H07"
+    }
+  ]
+}

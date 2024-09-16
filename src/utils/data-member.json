@@ -1,0 +1,466 @@
+{
+  "data": [
+    {
+      "id": "21ec301e-f6ee-43ab-a433-35a58550bfed",
+      "name": "Trường Du lịch",
+      "link": "http://dtu-hti.edu.vn/",
+      "university": true,
+      "afterUniversity": false,
+      "majors": [
+        {
+          "id": "24e2eac2-3718-47bb-a087-6f3f4732b426",
+          "name": "quản trị sự kiện",
+          "educationalLevel": "university",
+          "code": "7340412"
+        },
+        {
+          "id": "4c5a093e-a9f4-43d5-9c71-ac264bcb0cbc",
+          "name": "quản trị khách sạn",
+          "educationalLevel": "university",
+          "code": "7810201"
+        },
+        {
+          "id": "83930d91-7bff-4943-9231-09041fb9a4ad",
+          "name": "quản trị dịch vụ du lịch và lữ hành",
+          "educationalLevel": "university",
+          "code": "7810103"
+        },
+        {
+          "id": "9099e463-13c7-4d31-80e1-d1c20f700134",
+          "name": "quản trị nhà hàng và dịch vụ ăn uống",
+          "educationalLevel": "university",
+          "code": "7810202"
+        }
+      ]
+    },
+    {
+      "id": "46527fc9-e931-46a8-8700-e72e6da08ce3",
+      "name": "Trường Khoa học Máy tính",
+      "link": "https://scs.duytan.edu.vn/",
+      "university": true,
+      "afterUniversity": true,
+      "majors": [
+        {
+          "id": "17a0a3f8-471e-440f-9a17-84be4babe691",
+          "name": "thạc sĩ khoa học máy tính",
+          "educationalLevel": "after_university",
+          "code": "8480101"
+        },
+        {
+          "id": "1b7cbe69-926a-48eb-8413-bd4e1b29e018",
+          "name": "tiến sĩ khoa học máy tính",
+          "educationalLevel": "after_university",
+          "code": "9480101"
+        },
+        {
+          "id": "1d86eba8-9d5c-41c7-8d5d-183cebceeb85",
+          "name": "khoa học dữ liệu",
+          "educationalLevel": "university",
+          "code": "7480109"
+        },
+        {
+          "id": "25daf1ee-b8f2-4c32-b46e-6208f63653d7",
+          "name": "mạng máy tính và truyền thông dữ liệu",
+          "educationalLevel": "university",
+          "code": "7480102"
+        },
+        {
+          "id": "39240676-b7f9-447b-a599-e9651b6cacda",
+          "name": "kỹ thuật phần mềm ",
+          "educationalLevel": "university",
+          "code": "7480103"
+        },
+        {
+          "id": "6f0d0e65-3a49-4c9f-9973-6fbdba6e771f",
+          "name": "an toàn thông tin",
+          "educationalLevel": "university",
+          "code": "7480202"
+        },
+        {
+          "id": "81b42ad9-baf9-4e3d-aabd-bc37f9bf7fef",
+          "name": "thạc sĩ hệ thống thông tin quản lý",
+          "educationalLevel": "after_university",
+          "code": "N/A"
+        },
+        {
+          "id": "a93a5771-2c4b-4058-95c3-bd49927acd06",
+          "name": "khoa học máy tính",
+          "educationalLevel": "university",
+          "code": "7480101"
+        }
+      ]
+    },
+    {
+      "id": "7b752f3b-e92a-471c-ab55-6b700b3609c8",
+      "name": "Trường Kinh Tế ",
+      "link": "https://sbe.duytan.edu.vn/",
+      "university": true,
+      "afterUniversity": true,
+      "majors": [
+        {
+          "id": "06261f94-1f56-4dce-b212-c2793b8a9392",
+          "name": "thương mại điện tử",
+          "educationalLevel": "university",
+          "code": "7340122"
+        },
+        {
+          "id": "277c65f3-da2c-4a87-9aae-4cc40b2ff4c5",
+          "name": "tiến sĩ tài chính ngân hàng",
+          "educationalLevel": "after_university",
+          "code": "9340201"
+        },
+        {
+          "id": "43f2bdf6-110f-48a7-9719-6e47dafc6365",
+          "name": "thạc sĩ quản trị kinh doanh",
+          "educationalLevel": "after_university",
+          "code": "8340101"
+        },
+        {
+          "id": "4ae46f6d-7565-4b1e-a122-92ed72e43d47",
+          "name": "kiểm toán",
+          "educationalLevel": "university",
+          "code": "7340302"
+        },
+        {
+          "id": "5cd59cfd-8be6-4b9b-8f3a-fc825108dbac",
+          "name": "tài chính ngân hàng",
+          "educationalLevel": "university",
+          "code": "7340201 "
+        },
+        {
+          "id": "5e1a4b2d-d1af-490a-8d6f-ca9146dde77d",
+          "name": "thạc sĩ tài chính ngân hàng",
+          "educationalLevel": "after_university",
+          "code": "8340201"
+        },
+        {
+          "id": "8252b86b-9e8c-4442-82ae-7990cf87b05b",
+          "name": "quản trị nhân lực",
+          "educationalLevel": "university",
+          "code": "7340404"
+        },
+        {
+          "id": "987159ec-a130-4ccc-a9f8-e2f2fc2e3ee8",
+          "name": "quản trị kinh doanh(HP)",
+          "educationalLevel": "university",
+          "code": "7340101 "
+        },
+        {
+          "id": "b06377d3-e840-469a-84c1-02fd7ba73844",
+          "name": "tiến sĩ quản trị kinh doanh",
+          "educationalLevel": "after_university",
+          "code": "9340101"
+        },
+        {
+          "id": "c1e78c51-79ad-4ff4-a5c6-15d40b02230d",
+          "name": "kinh doanh thương mại",
+          "educationalLevel": "university",
+          "code": "7340121"
+        },
+        {
+          "id": "f52213f7-91c3-45ae-86ae-12e62e12eb40",
+          "name": "marketing ",
+          "educationalLevel": "university",
+          "code": "7340115"
+        }
+      ]
+    },
+    {
+      "id": "8c57975b-062e-4bf6-b4d3-953abf1d9992",
+      "name": "Trường Công Nghệ",
+      "link": "https://set.duytan.edu.vn/",
+      "university": true,
+      "afterUniversity": true,
+      "majors": [
+        {
+          "id": "0900743d-9ce4-4d74-9df0-4ff02a6604f4",
+          "name": "thiết kế đồ họa",
+          "educationalLevel": "university",
+          "code": "7210403"
+        },
+        {
+          "id": "11e61fe4-aa63-4ee8-9c79-1935c9d47cf4",
+          "name": "kiến trúc",
+          "educationalLevel": "university",
+          "code": "7580101"
+        },
+        {
+          "id": "1caa0a0d-0551-420f-b1b9-371a5de0e249",
+          "name": "quản lý tài nguyên và môi trường",
+          "educationalLevel": "university",
+          "code": "7850101"
+        },
+        {
+          "id": "476967a5-2f06-4f3d-81da-80e3fcc571c8",
+          "name": "công nghệ kỹ thuật môi trường",
+          "educationalLevel": "university",
+          "code": "7510406"
+        },
+        {
+          "id": "496bcefb-e512-4908-895f-35cfe6441a9d",
+          "name": "kiến trúc nội thất",
+          "educationalLevel": "university",
+          "code": "7580103"
+        },
+        {
+          "id": "5367be1c-5894-4638-a38d-ef81f96a99ff",
+          "name": "tiến sĩ kỹ thuật xây dựng",
+          "educationalLevel": "after_university",
+          "code": "9580201"
+        },
+        {
+          "id": "7b095903-6aa9-41f7-aa5c-861fbf24e800",
+          "name": "kỹ thuật cơ điện tử",
+          "educationalLevel": "university",
+          "code": "7520114"
+        },
+        {
+          "id": "81a0ce34-7ad9-46ef-b3d9-572adf4714e9",
+          "name": "công nghệ kỹ thuật đện - điện tử",
+          "educationalLevel": "university",
+          "code": "7510301"
+        },
+        {
+          "id": "94c013ef-4a25-43e9-9a96-f6d717dc997d",
+          "name": "thiết kế thời trang",
+          "educationalLevel": "university",
+          "code": "7210404"
+        },
+        {
+          "id": "958cbeba-ac8d-41db-a602-e254ad95a566",
+          "name": "thạc sĩ kỹ thuật điện tử",
+          "educationalLevel": "after_university",
+          "code": "N/A"
+        },
+        {
+          "id": "9c8fa24d-4152-4a75-8941-8e17e36a3913",
+          "name": "kỹ thuật xây dựng công trình giao thông",
+          "educationalLevel": "university",
+          "code": "7580205"
+        },
+        {
+          "id": "b384eb71-e927-447b-98ae-9aad8adbd730",
+          "name": "thạc sĩ kỹ thuật môi trường",
+          "educationalLevel": "after_university",
+          "code": "N/A"
+        },
+        {
+          "id": "c0985443-a3ff-4332-a39e-2e73874b26d3",
+          "name": "công nghệ kỹ thuật công trình xây dựng",
+          "educationalLevel": "university",
+          "code": "7510102"
+        },
+        {
+          "id": "c9da4d4c-0e8f-407d-8b33-f9aa06af5539",
+          "name": " kỹ thuật điện",
+          "educationalLevel": "university",
+          "code": "7520201"
+        },
+        {
+          "id": "d42e1d5f-8538-4e3f-8cf1-3917a0b28b93",
+          "name": "kỹ thuật xây dựng",
+          "educationalLevel": "university",
+          "code": "7580201"
+        },
+        {
+          "id": "d4d09b8f-ffaf-4483-a359-5d7c93620ef5",
+          "name": "công nghệ kỹ thuật ô tô",
+          "educationalLevel": "university",
+          "code": "7510205"
+        },
+        {
+          "id": "d9abb7ee-da6c-4a7a-ad03-0ccfd0f511c6",
+          "name": "công nghệ chế tạo máy",
+          "educationalLevel": "university",
+          "code": "7510202"
+        },
+        {
+          "id": "e8e7b7b1-93c3-4224-b8a1-d324d388988d",
+          "name": "kỹ thuật điều khiển và tự động hóa",
+          "educationalLevel": "university",
+          "code": "7520216"
+        },
+        {
+          "id": "fae3334c-f6c2-4764-b52a-093d5ece5a1b",
+          "name": "công nghệ thực phẩm",
+          "educationalLevel": "university",
+          "code": "7540101"
+        }
+      ]
+    },
+    {
+      "id": "a1bb116f-02aa-4232-a382-908169fe9a06",
+      "name": "Trường Y Dược",
+      "link": "https://cmp.duytan.edu.vn/",
+      "university": true,
+      "afterUniversity": true,
+      "majors": [
+        {
+          "id": "054b1c8c-0185-4e8c-acf5-aaf3a777ae7f",
+          "name": "kỹ thuật y sinh",
+          "educationalLevel": "university",
+          "code": "7520212"
+        },
+        {
+          "id": "211912d8-e379-46ce-a605-49e8328e0ffc",
+          "name": "răng-hàm-mặt",
+          "educationalLevel": "university",
+          "code": "7720501"
+        },
+        {
+          "id": "3340c29f-2211-431f-aab2-cbc6879e791f",
+          "name": "thạc sĩ tổ chức quản lý dược",
+          "educationalLevel": "after_university",
+          "code": "8720412"
+        },
+        {
+          "id": "6301ef32-d6a9-4769-ad50-f54ba7cfe493",
+          "name": "công nghệ sinh học",
+          "educationalLevel": "university",
+          "code": "7420201"
+        },
+        {
+          "id": "9b39fcd3-9982-4ded-be17-08d69f62d43e",
+          "name": "dược",
+          "educationalLevel": "university",
+          "code": "7720201"
+        },
+        {
+          "id": "cb5d17f4-8328-4ca7-947d-f7d58d91c15c",
+          "name": "điều dưỡng",
+          "educationalLevel": "university",
+          "code": "7720301"
+        }
+      ]
+    },
+    {
+      "id": "c72a0b46-d297-461a-8696-fa312eb094ba",
+      "name": "Viện Quản lý Nam Khuê",
+      "link": "http://smi.edu.vn/",
+      "university": true,
+      "afterUniversity": false,
+      "majors": [
+        {
+          "id": "987159ec-a130-4ccc-a9f8-e2f2fc2e3ee8",
+          "name": "quản trị kinh doanh(HP)",
+          "educationalLevel": "university",
+          "code": "7340101 "
+        }
+      ]
+    },
+    {
+      "id": "f6480a02-bf50-49b8-bd43-9e166f0c9987",
+      "name": "Trường Ngoại ngữ & Xã hội Nhân văn",
+      "link": "https://lhss.duytan.edu.vn/",
+      "university": true,
+      "afterUniversity": true,
+      "majors": [
+        {
+          "id": "019a6d72-a96a-40af-9e46-ed759c53799b",
+          "name": "ngôn ngữ hàn quốc",
+          "educationalLevel": "university",
+          "code": "7220210"
+        },
+        {
+          "id": "0af1b47b-eff4-4f16-a600-79adf7400230",
+          "name": "quan hệ quốc tế",
+          "educationalLevel": "university",
+          "code": "7310206"
+        },
+        {
+          "id": "2017d356-115a-41c5-bfb5-c3d285df2242",
+          "name": "luật",
+          "educationalLevel": "university",
+          "code": "7380101"
+        },
+        {
+          "id": "3336ee7f-f901-420e-b96e-7cb1b0df3af6",
+          "name": "văn học",
+          "educationalLevel": "university",
+          "code": "7229030"
+        },
+        {
+          "id": "37684ecc-43ae-4c6f-8cdf-a51b6ef55c85",
+          "name": "quan hệ công chúng",
+          "educationalLevel": "university",
+          "code": "7320108"
+        },
+        {
+          "id": "4c76912b-b08e-4a23-858b-af83d2193b98",
+          "name": "tiến sĩ quan hệ quốc tế",
+          "educationalLevel": "after_university",
+          "code": "9310206"
+        },
+        {
+          "id": "671a15a7-3b19-44d6-9f58-4c5b40dc7e7b",
+          "name": "việt nam học",
+          "educationalLevel": "university",
+          "code": "7310630"
+        },
+        {
+          "id": "6b23f349-4cf5-459f-8492-99468ef48a79",
+          "name": "ngôn ngữ nhật",
+          "educationalLevel": "university",
+          "code": "7220209"
+        },
+        {
+          "id": "753fcf82-9843-456b-b4b8-97ad9d9a6eaa",
+          "name": "truyền thông đa phương tiện",
+          "educationalLevel": "university",
+          "code": "7320104"
+        },
+        {
+          "id": "a1c8af54-3163-43d8-bfb1-ca7c8cca5c1b",
+          "name": "luật kinh tế",
+          "educationalLevel": "university",
+          "code": "7380107"
+        },
+        {
+          "id": "a409604b-7d56-4051-b017-673a65244382",
+          "name": "ngôn ngữ trung quốc",
+          "educationalLevel": "university",
+          "code": "7220204"
+        },
+        {
+          "id": "be77cd99-dc89-4b41-890a-f68f6c429007",
+          "name": "ngôn ngữ anh ",
+          "educationalLevel": "university",
+          "code": "7220201"
+        },
+        {
+          "id": "ce658781-3489-4ca5-96ff-16e341a724ed",
+          "name": "thạc sĩ quan hệ quốc tế",
+          "educationalLevel": "after_university",
+          "code": "8310206"
+        }
+      ]
+    },
+    {
+      "id": "f814742f-fc6c-471d-a98b-15b042f7aab3",
+      "name": "Trường Đào tạo Quốc tế",
+      "link": "https://is.duytan.edu.vn/",
+      "university": true,
+      "afterUniversity": false,
+      "majors": [
+        {
+          "id": "931729a8-a2e9-4ee7-b391-045782874eee",
+          "name": "an toàn thông tin (cmu)",
+          "educationalLevel": "university",
+          "code": "7480202"
+        },
+        {
+          "id": "9a711573-32bc-49ec-9f76-f92ec930c573",
+          "name": "hệ thống thông tin quản lý (cmu)",
+          "educationalLevel": "university",
+          "code": "7340405"
+        },
+        {
+          "id": "e759e427-3dad-41bc-9acc-66c89287cfa3",
+          "name": "kỹ thuật phần mềm (cmu)",
+          "educationalLevel": "university",
+          "code": "7480103"
+        }
+      ]
+    }
+  ]
+}
